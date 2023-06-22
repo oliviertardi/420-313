@@ -1,0 +1,18 @@
+baseURL = 'http://otardi.gitlab.io/420-313'
+languageCode = 'fr-ca'
+title = 'Sécurité informatique'
+theme = 'hugo-theme-relearn'
+
+[params]
+  # Change default color scheme with a variant one. Can be empty, "red", "blue", "green".
+  themeVariant = "black"
+  disableLandingPageButton = true
+  alwaysopen = false
+  # Set this to true to disable copy-to-clipboard button for inline code.
+  disableInlineCopyToClipBoard = true
+  # Hide breadcrumbs in the header and only show the current page title
+  disableBreadcrumb = false
+  # If set to true, hide table of contents menu in the header of all pages
+  disableToc = true
+  # Hide Next and Previous page buttons normally displayed full height beside content
+  disableNextPrev = true
